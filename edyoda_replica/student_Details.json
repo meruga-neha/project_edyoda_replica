@@ -1,0 +1,34 @@
+{
+    "ds17823": [
+        {
+            "name": "neha",
+            "gender": "female",
+            "age": 22,
+            "qualification": "btech",
+            "experience": "2ye",
+            "mob": 23234,
+            "email": "neha@123",
+            "password": "neha"
+        },
+        {
+            "name": "nina",
+            "gender": "female",
+            "age": 22,
+            "qualification": "ms",
+            "experience": "3ye",
+            "mob": 342354,
+            "email": "nina@12",
+            "password": "nina"
+        },
+        {
+            "name": "nevin",
+            "gender": "male",
+            "age": 22,
+            "qualification": "ms",
+            "experience": "3years",
+            "mob": 3423542,
+            "email": "nevin@123",
+            "password": "nevin"
+        }
+    ]
+}
